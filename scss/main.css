@@ -1,0 +1,58 @@
+@media screen and (max-width: 768px) {
+  .row1 .body {
+    background-color: rgb(139, 137, 137);
+  }
+  .row1 .navbar-nav li:hover {
+    flex: 1;
+    background-color: #333;
+    color: #fff;
+    border: 1px solid;
+    padding: 0.5rem;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.5s ease-out;
+  }
+  .row2 {
+    border: solid;
+    text-align: center;
+  }
+  .row3 {
+    text-align: center;
+    border: double;
+    border-radius: 100px;
+  }
+  .row4 {
+    background-color: rgb(66, 64, 64);
+    text-align: center;
+  }
+}
+@media screen and (max-width: 1680px) {
+  .body {
+    background-color: rgb(62, 119, 116);
+  }
+  .row1 {
+    background-color: rgb(139, 137, 137);
+  }
+  .row1 .navbar-nav li:hover {
+    flex: 1;
+    background-color: #333;
+    color: #fff;
+    border: 1px solid;
+    padding: 0.5rem;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.5s ease-out;
+  }
+  .row2 {
+    text-align: center;
+  }
+  .row3 {
+    text-align: center;
+    border: double;
+    border-radius: 100px;
+  }
+  .row4 {
+    background-color: rgb(66, 64, 64);
+    text-align: center;
+  }
+}/*# sourceMappingURL=main.css.map */
